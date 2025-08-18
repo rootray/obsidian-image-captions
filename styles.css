@@ -22,3 +22,14 @@
 .theme-light .image-captions-caption {
     background: #ebebeb;
 }
+
+/* Live Preview external image captions */
+.cm-editor .image-captions-caption {
+  display: block;
+  margin: 4px auto 0;
+  font-size: 0.9em;
+  color: var(--text-muted);
+  line-height: 1.4;
+  text-align: center;
+}
+
